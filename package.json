@@ -1,5 +1,6 @@
 {
   "name": "the_spoon",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+  }
 }
